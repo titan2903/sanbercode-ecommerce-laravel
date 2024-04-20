@@ -4,14 +4,6 @@
 
 # Final Project
 
-## Kelompok 3
-
-## Anggota Kelompok
-
-- Muhammad Wira Saputra
-- Titanio Yudista
-- Mahfud Iskandarwanto
-
 ## Tema Project
 
 - Ecommerce
